@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
         startBtn=findViewById(R.id.start_btn)
         pb=findViewById(R.id.progressBar)
         startBtn.setOnClickListener {
-            if (!isTimeRunning) {//isTimeRunning==false
+            if (!isTimeRunning) {
                 startTimer(START_TIME_IN_MILLIS)
             }
         }
