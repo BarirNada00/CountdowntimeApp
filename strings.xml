@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CountDownTimerApp</string>
+    <string name="start"> START </string>
+    <string name="reset"> <u>RESET</u> </string>
+    <string name="time"> 25:00 </string>
+</resources>
